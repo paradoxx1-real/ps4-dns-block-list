@@ -1,5 +1,5 @@
 # ps4-dns-block-list
-hello this is my list of domains to block 
+hello this is a list of domains i made to block 
 
 
 
